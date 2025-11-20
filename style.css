@@ -2,8 +2,7 @@ body {
     font-family:'Segoe UI' Geneva;
     background-color: rgb(0, 255, 255);
     color: rgb(0, 171, 77);
-    text-align:center;
-    cursor : url("icons8-computer-mouse-50.png"), auto;
+    cursor : url("mouse.png"), auto;
     font-size: 16x;
     background-image: url("https://img.freepik.com/free-vector/background-abstract-pixel-rain_23-2148376182.jpg?semt=ais_hybrid&w=740&q=80");
 }
@@ -13,7 +12,7 @@ h1 {
     font-size: 3em;
 }
 
-p, ul, table {
+ul, table {
     text-align: left;
     max-width: 700px;
     margin: 0 auto 1em auto;
@@ -21,11 +20,11 @@ p, ul, table {
 }
 
 .left {
-    padding-left: 25%;
+    padding-left: 50%;
 }
 
 .right {
-    padding-right: 75%;
+    padding-right: 50%;
 }
 
 table {
