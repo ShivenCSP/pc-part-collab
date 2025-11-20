@@ -5,8 +5,8 @@ body {
     text-align:center;
     cursor : url("icons8-computer-mouse-50.png"), auto;
     font-size: 16x;
-    background-image: url("https://img.freepik.com/free-vector/background-abstract-pixel-rain_23-2148376182.jpg?semt=ais_hybrid&w=740&q=80");
-}
+    background-image: url("https://images.ctfassets.net/nnkxuzam4k38/2SvDjcgyav5C1DOb79JKXl/d3b06db5bb6bdb4ab237f666b5b4980e/compute-ea4c57a4.png");
+
 h1 {
   color:rgb(0, 255, 85);
     text-decoration: underline;
@@ -17,7 +17,7 @@ p, ul, table {
     text-align: left;
     max-width: 700px;
     margin: 0 auto 1em auto;
-    line-height: 1.5; 
+    line-height: 1.5;
 }
 
 .left {
